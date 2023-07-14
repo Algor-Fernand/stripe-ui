@@ -1,1 +1,1 @@
-STRIPE UI
+STRIPE User interface
